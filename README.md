@@ -2,6 +2,8 @@
 
 This is my project on Navigation by Hand Localization using CSRT.
 
+Full Tutorial here - https://medium.com/@harshmalra/playing-gta-v-using-hand-localization-65305a45d95f?sk=9b94eb7bcc3831ce867e62c5fd4bdbc8
+
 # Tutorial (Short)
 
 1. Keep your hands in the starting position, from which you want to drive.
@@ -12,7 +14,7 @@ This is my project on Navigation by Hand Localization using CSRT.
 
 The full tutorial of this project will be posted on Medium soon.
 
-LinkedIn - https://www.linkedin.com/posts/activity-6690662895769964544-Mrfq
+LinkedIn - https://www.linkedin.com/posts/activity-6692670952368615424-6TyJ
 
 ![](https://github.com/malraharsh/Gesture-Controlled-Driving-Single-Tracker/blob/master/Screenshot%20-%2025-07-2020%20%2C%2011_30_11.png)
 
